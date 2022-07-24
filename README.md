@@ -2,7 +2,7 @@
 
 ###
 
-<p> 
+<p style="font-size:10px"> 
   Atualmente trabalhando com integrações Node.js e Firebase, porém já desenvolvi aplicações em variados projetos mobile híbrido e web front-end.
 </p>
 
