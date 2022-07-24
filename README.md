@@ -8,7 +8,7 @@
 <h4> 
   Atualmente trabalhando com integrações Node.js e Firebase, porém já desenvolvi aplicações em projetos mobile híbrido e web front-end.
 <h4>
-<div align="left">
+<div align="center">
 
 ## 🌐 Mídias sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Miguelzzz#8616) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juaanm_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-oliveira-1b44811b5) 
@@ -20,6 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=juaan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
