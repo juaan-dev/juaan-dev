@@ -38,7 +38,6 @@
 ###
 
 <br clear="both">
-
 <img href="https://raw.githubusercontent.com/juaan-dev/juaan-dev/blob/output/snake.svg" alt="Snake animation" />
 
 ###
