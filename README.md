@@ -3,7 +3,7 @@
 ###
 
 <h4> 
-  Atualmente trabalhando com integrações Node.js e Firebase, porém já desenvolvi aplicações em variados projetos mobile híbrido e web front-end.
+  Atualmente trabalhando com integrações Node.js e Firebase, porém já desenvolvi aplicações em projetos mobile híbrido e web front-end.
 <h4>
 <div align="left">
 
