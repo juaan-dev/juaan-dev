@@ -2,9 +2,9 @@
 
 ###
 
-<p style="font-size:10px"> 
+<h4> 
   Atualmente trabalhando com integrações Node.js e Firebase, porém já desenvolvi aplicações em variados projetos mobile híbrido e web front-end.
-</p>
+<h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=juaan-dev" height="150" alt="stats graph"  />
