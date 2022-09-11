@@ -6,7 +6,7 @@
 ###
 
 <h4> 
-  Atualmente trabalhando com integrações Node.js e Firebase, porém já desenvolvi aplicações em projetos mobile híbrido e web front-end.
+  Atualmente estudando Dart para backend.
 <h4>
 <div align="center">
 
