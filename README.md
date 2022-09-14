@@ -1,7 +1,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juaan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="left">Olá, humanos 👋 Meu nome é Juan Miguel!</h1>
+<h1 align="left">Olá👋 Meu nome é Juan Miguel!</h1>
 
 ###
 
