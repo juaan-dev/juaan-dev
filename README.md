@@ -4,7 +4,7 @@
 <h1 align="left">Olá, me chamo Juan Miguel!</h1>
 
 ###
-<table border="2">
+<tr>
     <h4> 
       Geek, Gamer e Desenvolvedor 🖖
     <h4>
@@ -14,7 +14,7 @@
     <h4> 
       Focado em aprender novas tecnologias e resolver desafios!
     <h4>
- </table>
+ </tr>
 <div align="center">
 
 # 🌐 Mídias sociais:
