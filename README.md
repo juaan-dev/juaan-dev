@@ -6,13 +6,13 @@
 ###
 <tr>
     <h4> 
-      Geek, Gamer e Desenvolvedor 🖖
+      🖖 Geek, Gamer e Desenvolvedor 
     <h4>
     <h4> 
-      Estudante do curso de Sistemas de Informação pela Universidade Federal do Amazonas.
+      📚 Estudante do curso de Sistemas de Informação pela Universidade Federal do Amazonas.
     <h4>
     <h4> 
-      Focado em aprender novas tecnologias e resolver desafios!
+      🎯 Focado em aprender novas tecnologias e resolver desafios!
     <h4>
  </tr>
 <div align="center">
