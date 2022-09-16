@@ -1,7 +1,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juaan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="left">Olá👋 Meu nome é Juan Miguel!</h1>
+<h1 align="left">Olá, me chamo Juan Miguel!</h1>
 
 ###
 <table border="2">
@@ -17,7 +17,7 @@
  </table>
 <div align="center">
 
-## 🌐 Mídias sociais:
+# 🌐 Mídias sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Miguelzzz#8616) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juaanm_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-oliveira-1b44811b5) 
 
 # 💻 Tecnologias utilizadas:
