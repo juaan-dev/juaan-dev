@@ -5,7 +5,6 @@
 
 ###
 <table>
-  <tr>
     <h4> 
       Geek, Gamer e Desenvolvedor 🖖
     <h4>
@@ -15,7 +14,6 @@
     <h4> 
       Focado em aprender novas tecnologias e resolver desafios!
     <h4>
-    </tr>
  </table>
 <div align="center">
 
