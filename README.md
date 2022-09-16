@@ -5,13 +5,17 @@
 
 ###
 
-
-<h4> 
-  Estudante do curso de Sistemas 
-<h4>
-<h4> 
-  Atualmente estudando Dart para backend.
-<h4>
+<div align="center">
+  <h4> 
+    Geek, Gamer e Desenvolvedor 🖖
+  <h4>
+  <h4> 
+    Estudante do curso de Sistemas de Informação pela Universidade Federal do Amazonas.
+  <h4>
+  <h4> 
+    Focado em aprender novas tecnologias e resolver desafios!
+  <h4>
+ </div>
 <div align="center">
 
 ## 🌐 Mídias sociais:
