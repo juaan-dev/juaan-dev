@@ -4,7 +4,7 @@
 <h1 align="left">Olá👋 Meu nome é Juan Miguel!</h1>
 
 ###
-<table>
+<table border="2">
     <h4> 
       Geek, Gamer e Desenvolvedor 🖖
     <h4>
