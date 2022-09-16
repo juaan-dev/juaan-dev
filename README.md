@@ -6,7 +6,7 @@
 ###
 <tr>
     <h4> 
-      🖖 Geek, Gamer e Desenvolvedor 
+      🖖 Geek, Gamer e Desenvolvedor!
     <h4>
     <h4> 
       📚 Estudante do curso de Sistemas de Informação pela Universidade Federal do Amazonas.
