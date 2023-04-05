@@ -20,18 +20,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true)<br/>
 
 
-[![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[!(https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[!(https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[!(https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+[!(https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[!(https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[!(https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[!(https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[!(https://img.shields.io/badge/React_Native-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
+[!(https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[!(https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[!(https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[!(https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
     
 
