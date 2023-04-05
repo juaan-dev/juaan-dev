@@ -38,8 +38,8 @@
 
 ### Contato
 <div align="center">
-  <a href="https://www.instagram.com/seu_usuario/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
-  <a href="https://www.linkedin.com/in/seu_usuario/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/juanmiguel.dev/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
+  <a href="https://www.linkedin.com/in/juan-miguel-1b44811b5/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </div>
 
 ---
