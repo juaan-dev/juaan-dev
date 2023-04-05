@@ -15,10 +15,6 @@
  </tr>
 <div align="center">
 
-# 
-![](https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true)<br/>
-
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="200" style="vertical-align:top; margin:4px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" height="200" style="vertical-align:top; margin:4px">
