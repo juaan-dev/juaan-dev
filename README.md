@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="200" width="450" style="vertical-align:top; margin:4px">
+    <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="200" width="500" style="vertical-align:top; margin:4px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" width="500" height="200" style="vertical-align:top; margin:4px">
 </div><br>
     
