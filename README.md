@@ -2,7 +2,6 @@
 <div>
     <h2 align="left">Olá, me chamo Juan Miguel!</h2>
 </div>
-###
 <tr>
     <h4> 
       🖖 Geek, Gamer e Desenvolvedor!
