@@ -38,7 +38,7 @@
 
 ### Contato
 <div align="center">
-  <a href="https://www.instagram.com/seu_usuario/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+  <a href="https://www.instagram.com/seu_usuario/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
   <a href="https://www.linkedin.com/in/seu_usuario/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </div>
 
