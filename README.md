@@ -18,7 +18,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" width="400" height="200" style="vertical-align:top; margin:4px">
 </div><br><br>
     
-<h2 align="left"My Stack</h2>
+### My Stack
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="50" style="vertical-align:top; margin:4px">
@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50" style="vertical-align:top; margin:4px">
 </div><br>
 
-<h2 align="left"Contact me</h2>  
+### Contact me
 <div align="center">
   <a href="mailto:juanmigueloliveira@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   <a href="https://www.instagram.com/juanmiguel.dev/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
