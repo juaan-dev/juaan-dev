@@ -8,7 +8,7 @@
       🖖 Geek, Gamer and Developer!
     <h4>
     <h4> 
-      📚 Information System Academic at Federal Amazonas University
+      📚 Information System Academic at Federal University of Amazonas 
     <h4>
  </tr>
 <div align="center">
