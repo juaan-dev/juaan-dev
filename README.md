@@ -20,19 +20,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true)<br/>
 
 
-[!(https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[!(https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[!(https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-[!(https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[!(https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[!(https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[!(https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[!(https://img.shields.io/badge/React_Native-61DAFB.svg?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
-[!(https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[!(https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[!(https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[!(https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50" style="vertical-align:top; margin:4px">
+</div>
     
 
 ### Contato
