@@ -17,8 +17,8 @@
 <div align="center">
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="100" style="vertical-align:top; margin:4px" width="100">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" width="100" height="100" style="vertical-align:top; margin:4px">
+    <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="200" style="vertical-align:top; margin:4px" width="200">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" width="200" height="200" style="vertical-align:top; margin:4px">
 </div><br><br>
 
 <div align="center">
