@@ -1,6 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=juaan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-<h2 align="left">Olá, me chamo Juan Miguel!</h2>
-
+<div>
+    <h2 align="left">Olá, me chamo Juan Miguel!</h2>
+    <img src="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm" width="30" height="30" />
+</div>
 ###
 <tr>
     <h4> 
