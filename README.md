@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=juaan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 <div>
-    <h2 align="left">Olá, me chamo Juan Miguel!</h2>
+    <h2 align="left">Olá, eu sou o Juan Miguel!</h2>
 </div>
 
 <tr>
@@ -17,8 +17,8 @@
 <div align="center">
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="200" style="vertical-align:top; margin:4px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" height="200" style="vertical-align:top; margin:4px">
+    <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="100" style="vertical-align:top; margin:4px" width="100">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" width="100" height="100" style="vertical-align:top; margin:4px">
 </div><br><br>
 
 <div align="center">
