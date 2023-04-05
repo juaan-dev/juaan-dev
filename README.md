@@ -37,8 +37,10 @@
 </div>
 
 ### Contato
-    <a href="https://instagram.com/juanmiguel.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" height="50" style="vertical-align:top; margin:4px"></a>
-    <a href="https://www.linkedin.com/in/juan-miguel-1b44811b5/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="50" style="vertical-align:top; margin:4px"></a>
+<div align="center">
+  <a href="https://www.instagram.com/seu_usuario/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/seu_usuario/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+</div>
 
 ---
   </div>
