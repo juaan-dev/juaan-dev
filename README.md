@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50" style="vertical-align:top; margin:4px">
 </div><br>
-
+---
 ### Contact me
 <div align="center">
   <a href="mailto:juanmigueloliveira@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
