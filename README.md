@@ -12,7 +12,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="200" width="600" style="vertical-align:top; margin:4px;width:43%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" width="600" height="200" style="vertical-align:top; margin:4px;width:33%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" width="600" height="200" style="vertical-align:top; margin:4px;width:43%">
 </div><br>
     
 ### My Stack
