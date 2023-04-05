@@ -18,7 +18,7 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=juaan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="200" style="vertical-align:top; margin:4px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juaan-dev&theme=tokyonight&hide_border=true" height="200" style="vertical-align:top; margin:4px">
-</div>
+</div><br><br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" style="vertical-align:top; margin:4px">
