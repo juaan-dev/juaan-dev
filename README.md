@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=juaan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 <div>
-    <h2 align="left">Olá, eu sou o Juan Miguel!</h2>
+    <h2 align="left">Hello there! I'm Juan Miguel!</h2>
 </div>
 
 ### Contact me
